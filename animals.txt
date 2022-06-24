@@ -3,3 +3,5 @@ Dog
 Cow
 Elephant
 tiger
+Monkey
+Croc
